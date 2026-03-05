@@ -5,13 +5,14 @@
 El proyecto consiste en la creación de un portal web de noticias deportivas desarrollado con WordPress, utilizando el tema Cartrixs.
 La web está enfocada en publicar noticias y contenido sobre tres deportes muy conocidos:
 
-- FC Barcelona
-- Real Madrid CF
-- Scuderia Ferrari F1
+- Futbol
+- Formula 1
 - MotoGP
 
-El objetivo del portal es ofrecer a los usuarios información actualizada sobre partidos, resultados y novedades relacionadas con estos equipos de futbol, MotoGP Y Formula 1
+El objetivo del portal es ofrecer a los usuarios información actualizada sobre partidos, resultados y novedades relacionadas con equipos de futbol, de Formula 1 y MotoGP
+
 ---
+
 ## Instalación y configuración
 
 **Instalación del tema**
@@ -32,9 +33,7 @@ Después se personalizó desde Apariencia → Personalizar, donde se modificaron
 - menú principal
 - estructura de la página principal.
 
-## Organizacion del contenido
-
-Para organizar la información del portal se utilizó el sistema de entradas y categorías de WordPress.
+---
 
 **Categorías principales**
 
@@ -48,6 +47,7 @@ Cada noticia publicada pertenece a una de estas categorías para facilitar la na
  
  <img width="370" height="74" alt="image" src="https://github.com/user-attachments/assets/2d324c27-5eea-4a10-98dd-af667436f3ab" />
 
+---
 
 **Cada entrada incluye:**
 
@@ -59,6 +59,8 @@ Cada noticia publicada pertenece a una de estas categorías para facilitar la na
 
 <img width="1055" height="651" alt="image" src="https://github.com/user-attachments/assets/3186b2da-c5f5-4b59-82ac-ca1548863589" />
 <img width="998" height="209" alt="image" src="https://github.com/user-attachments/assets/35bba027-f890-4b89-9b68-411aa3ff84c7" />
+
+---
 
 ## Menú de navegación ##
 
