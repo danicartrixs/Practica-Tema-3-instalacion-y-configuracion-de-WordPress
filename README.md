@@ -75,4 +75,4 @@ El menú incluye:
 
 Esto permite que los usuarios encuentren rápidamente la información que buscan.
 
-<img width="1626" height="718" alt="image" src="https://github.com/user-attachments/assets/76088eb6-65a9-4fd1-8032-c671fffa6703" />
+![Text alternatiu](imagen1.png "Títol opcional")
