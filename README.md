@@ -26,7 +26,7 @@ Una vez instalado WordPress se instaló el tema Cartrixs.
 - Hacer clic en Instalar.
 - Activar el tema.
 
-Después se personalizó desde Apariencia → Personalizar, donde se modificaron:
+**Después se personalizó desde Apariencia → Personalizar, donde se modificaron:**
 
 - colores del sitio
 - logotipo
@@ -35,13 +35,13 @@ Después se personalizó desde Apariencia → Personalizar, donde se modificaron
 
 ---
 
-**Categorías principales**
+## Categorías principales ##
 
-Se crearon tres categorías principales de noticias:
+**Se crearon tres categorías de noticias:**
 
 - Futbol
 - MotoGP
-- Ferrari F1
+- Formula 1
 
 Cada noticia publicada pertenece a una de estas categorías para facilitar la navegación.
  
@@ -49,7 +49,7 @@ Cada noticia publicada pertenece a una de estas categorías para facilitar la na
 
 ---
 
-**Cada entrada incluye:**
+## Cada entrada incluye: ##
 
 - título de la noticia
 - contenido o texto de la noticia
