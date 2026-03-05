@@ -57,8 +57,8 @@ Cada noticia publicada pertenece a una de estas categorías para facilitar la na
 - categoría correspondiente
 - fecha de publicación.
 
-<img width="1055" height="651" alt="image" src="https://github.com/user-attachments/assets/3186b2da-c5f5-4b59-82ac-ca1548863589" />
-<img width="998" height="209" alt="image" src="https://github.com/user-attachments/assets/35bba027-f890-4b89-9b68-411aa3ff84c7" />
+![Text alternatiu](imagen2.png "Títol opcional")
+![Text alternatiu](imagen2.png "Títol opcional")
 
 ---
 
