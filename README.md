@@ -45,7 +45,7 @@ Una vez instalado WordPress se instaló el tema Cartrixs.
 
 Cada noticia publicada pertenece a una de estas categorías para facilitar la navegación.
  
- ![Text alternatiu](imagen2.png "Títol opcional")
+ ![Text alternatiu](imagen4.png "Títol opcional")
 
 ---
 
